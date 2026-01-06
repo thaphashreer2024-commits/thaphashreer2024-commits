@@ -1,20 +1,73 @@
-<h1 align="center">Hi , I'm R.Thaphashree</h1>
-<h3 align="center">A inquisitive ECE student from VIT Vellore India</h3>
+# Hi, I’m Thaphashree 👋  
 
-- I’m currently learning **Verilog and pearl script language**
+I’m an **Electronics Engineering undergraduate (VLSI specialization)** at **VIT Vellore**, exploring how **hardware, signal processing, and embedded systems** come together to solve real-world problems.
 
-- 📫 How to reach me
-- **thaphashree.r2024@vitstudent.ac.in**
+I enjoy learning by building — from FPGA-based digital systems to embedded projects and signal processing applications — and I’m actively looking for **internship and entry-level opportunities** where I can grow as an engineer.
 
-- Know about my experiences [https://drive.google.com/file/d/1CkFPRAaX6Gh0wQyXFohZc454wLwE7_j4/view?usp=drivesdk](https://drive.google.com/file/d/1CkFPRAaX6Gh0wQyXFohZc454wLwE7_j4/view?usp=drivesdk)
+---
 
-- Fun fact
- **Good at singing dancing and human psychology**
+## 🌱 What I’m Currently Learning
+- Digital & hardware design using **Verilog HDL**
+- FPGA implementation and testing
+- Signal processing concepts and real-time systems
+- Embedded systems using **ESP32**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thaphashree ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thaphashree ravi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔧 Projects I’ve Worked On
+
+### 🧪 Digital Logic Gates IC Tester (FPGA – DE2-115)
+This project started as a way to reduce the time spent manually checking ICs in the lab.  
+I designed a **hardware-based IC tester** using **Verilog on an FPGA**, which reduced verification time by **around 80%**.  
+The project was showcased at **Electroutsav 2025**.
+
+### 🎧 Real-Time Voice Clarity Booster
+I built a **speech enhancement system** using the **Wiener filter** to improve audio clarity in noisy environments.  
+The system achieved **10–15 dB noise reduction**, and helped me understand practical signal processing beyond theory.
+
+### 🚪 Automatic Door Locking System (ESP32)
+An embedded system that **counts room occupancy** using **dual ultrasonic sensors**.  
+The door locks automatically when no one is inside, combining sensor logic with real-world automation using an **ESP32**.
+
+---
+
+## 🧠 Research & Academic Exposure
+**Guided Project in Computer Architecture**  
+Under **Prof. Arunachalam V**, VIT Vellore (2025)
+
+---
+
+## 🛠️ Skills
+
+**Programming:**  
+Verilog (HDL), Python, C, Java, Perl  
+
+**Tools & Software:**  
+MATLAB, Quartus Prime Lite, ModelSim, VS Code, Arduino IDE, Multisim  
+
+**Hardware:**  
+FPGA (DE2-115), ESP32, Sensors  
+
+---
+
+## 🤝 Beyond Academics
+- **Organising Committee Member – Gravitas 2025**, VIT Vellore  
+  (Gained experience in teamwork, coordination, and responsibility)
+- Participated in **Sensored X (2025)**
+
+---
+
+## 🌍 Languages
+English (Professional), Hindi, Tamil, Telugu  
+German (A1 – Basic)
+
+---
+
+## 📬 Let’s Connect
+- 📧 **thaphashree@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/thaphashree-ravi-108ab9300)  
+- 💻 [GitHub](https://github.com/thaphashreer2024-commits)
+
+---
+
+✨ *I’m curious, motivated, and always open to learning — especially through hands-on projects and mentorship.*
