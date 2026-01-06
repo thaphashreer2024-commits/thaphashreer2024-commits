@@ -65,8 +65,8 @@ German (A1 – Basic)
 
 ##  Let’s Connect
 -  **thaphashree@gmail.com**  
--  [LinkedIn](https://www.linkedin.com/in/thaphashree-ravi-108ab9300)  
-- 💻 [GitHub](https://github.com/thaphashreer2024-commits)
+-  [LinkedIn]**(https://www.linkedin.com/in/thaphashree-ravi-108ab9300)**
+- 💻 [GitHub]**(https://github.com/thaphashreer2024-commits)**
 
 ---
 
